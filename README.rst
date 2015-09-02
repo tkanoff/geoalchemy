@@ -1,3 +1,6 @@
+DIFFERENCE FROM THE ORIGINAL geoalchemy package is that this version is patched against  ?
+
+
 ==========
 GeoAlchemy
 ==========
