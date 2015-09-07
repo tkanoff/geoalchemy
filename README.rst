@@ -1,4 +1,4 @@
-DIFFERENCE FROM THE ORIGINAL geoalchemy package is that this version is patched against  ?
+DIFFERENCE FROM THE ORIGINAL geoalchemy package is that this version is patched against the type object 'ColumnProperty' has no attribute 'ColumnComparator' error.
 
 
 ==========
